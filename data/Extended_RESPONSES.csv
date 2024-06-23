@@ -1,0 +1,326 @@
+GENDER,COLLEGE,COURSES,LEVEL,CGPA,Openness Score,Conscientiousness Score
+MALE,COE,Comp. Engineering,200,3.45,18,33
+FEMALE,COE,Comp. Engineering,200,3.53,16,31
+MALE,CST,Comp. Science,400,4.21,32,39
+FEMALE,COE,Elec. Elect. Engineering,300,2.51,17,18
+MALE,COE,Comp. Engineering,400,4.15,19,40
+FEMALE,COE,Civil Engineering,200,3.05,27,35
+MALE,COE,Elec. Elect. Engineering,500,4.53,34,41
+MALE,COE,Elec. Elect. Engineering,400,4.98,33,43
+MALE,CST,Architecture,300,2.02,20,17
+MALE,CST,Industrial Mathematics,400,4.00,26,31
+MALE,CST,Industrial Mathematics,400,3.52,32,40
+MALE,CST,Comp. Science,400,4.76,44,34
+MALE,COE,Elec. Elect. Engineering,200,3.51,23,33
+MALE,COE,Civil Engineering,400,3.53,21,34
+MALE,CST,Architecture,400,4.02,38,36
+MALE,COE,Elec. Elect. Engineering,200,2.57,39,23
+FEMALE,COE,Comp. Engineering,400,3.68,14,35
+MALE,COE,Civil Engineering,400,3.89,38,35
+FEMALE,COE,Comp. Engineering,200,3.24,39,32
+FEMALE,COE,Civil Engineering,400,3.89,24,38
+FEMALE,COE,Civil Engineering,300,3.10,17,40
+MALE,COE,Comp. Engineering,300,1.98,18,19
+MALE,CST,Comp. Science,200,2.33,22,18
+MALE,COE,Mechanical Engineering,500,4.02,30,38
+MALE,CST,Comp. Science,300,4.37,34,37
+MALE,COE,Mechanical Engineering,400,4.41,28,33
+MALE,COE,Comp. Engineering,200,3.81,20,34
+FEMALE,CST,Management Information Systems (MIS),300,2.93,33,31
+FEMALE,CST,Architecture,400,3.59,27,35
+FEMALE,COE,Comp. Engineering,300,2.51,15,23
+FEMALE,CST,Management Information Systems (MIS),200,1.51,17,22
+FEMALE,COE,Mechanical Engineering,500,4.98,36,39
+MALE,CST,Comp. Science,400,3.82,41,31
+MALE,COE,Mechanical Engineering,500,3.51,37,34
+MALE,CST,Comp. Science,200,2.60,20,32
+MALE,CST,Comp. Science,400,4.58,40,36
+FEMALE,COE,Civil Engineering,200,3.99,36,32
+FEMALE,CST,Comp. Science,300,3.57,41,36
+MALE,COE,Comp. Engineering,200,3.92,38,35
+MALE,COE,Comp. Engineering,400,4.31,32,38
+MALE,COE,Civil Engineering,200,2.15,26,19
+MALE,CST,Comp. Science,200,3.89,30,32
+FEMALE,COE,Mechanical Engineering,300,2.40,15,22
+MALE,COE,Mechanical Engineering,400,4.44,31,34
+MALE,COE,Comp. Engineering,300,4.28,38,37
+MALE,CST,Architecture,200,3.43,22,31
+MALE,CST,Management Information Systems (MIS),400,4.56,40,40
+MALE,COE,Comp. Engineering,200,2.17,22,25
+MALE,CST,Architecture,200,2.12,25,19
+MALE,COE,Mechanical Engineering,200,3.50,21,33
+MALE,COE,Mechanical Engineering,200,4.48,28,39
+FEMALE,CST,Industrial Mathematics,300,3.32,25,21
+MALE,COE,Civil Engineering,300,3.85,27,35
+MALE,COE,Civil Engineering,200,3.83,18,30
+MALE,CST,Industrial Mathematics,200,2.61,23,36
+MALE,CST,Comp. Science,400,4.70,40,33
+FEMALE,COE,Elec. Elect. Engineering,400,4.91,36,38
+FEMALE,COE,Comp. Engineering,200,3.92,31,39
+MALE,COE,Civil Engineering,300,3.33,31,32
+FEMALE,COE,Mechanical Engineering,400,4.89,29,43
+MALE,COE,Mechanical Engineering,200,3.56,31,36
+FEMALE,COE,Civil Engineering,300,2.70,18,23
+FEMALE,COE,Mechanical Engineering,400,4.75,31,42
+MALE,CST,Architecture,400,4.86,44,38
+FEMALE,COE,Civil Engineering,500,3.57,22,34
+MALE,COE,Mechanical Engineering,300,2.10,30,19
+FEMALE,CST,Industrial Mathematics,300,2.01,15,21
+MALE,COE,Mechanical Engineering,400,4.52,34,36
+MALE,CST,Industrial Mathematics,300,2.45,18,18
+FEMALE,COE,Elec. Elect. Engineering,200,2.88,26,32
+MALE,CST,Architecture,200,2.17,15,21
+MALE,COE,Elec. Elect. Engineering,500,3.82,36,35
+MALE,CST,Architecture,300,2.79,33,36
+FEMALE,COE,Comp. Engineering,400,3.71,24,38
+FEMALE,CST,Management Information Systems (MIS),200,2.87,21,31
+MALE,COE,Elec. Elect. Engineering,300,4.43,30,36
+FEMALE,COE,Elec. Elect. Engineering,300,3.92,33,30
+MALE,COE,Comp. Engineering,400,3.98,25,36
+MALE,CST,Comp. Science,300,3.09,27,23
+FEMALE,CST,Comp. Science,200,2.48,17,11
+FEMALE,COE,Comp. Engineering,200,3.66,32,39
+FEMALE,COE,Comp. Engineering,400,3.79,34,32
+MALE,CST,Industrial Mathematics,200,2.03,18,21
+FEMALE,CST,Comp. Science,200,3.90,28,31
+MALE,CST,Architecture,400,3.81,29,29
+FEMALE,COE,Civil Engineering,200,2.03,29,20
+MALE,COE,Mechanical Engineering,200,2.75,17,33
+MALE,CST,Architecture,300,3.19,22,19
+MALE,COE,Elec. Elect. Engineering,300,2.00,28,16
+MALE,CST,Comp. Science,200,1.85,19,13
+FEMALE,COE,Elec. Elect. Engineering,500,3.99,13,38
+FEMALE,CST,Architecture,200,2.62,29,29
+MALE,CST,Industrial Mathematics,300,3.35,21,32
+MALE,CST,Architecture,300,1.55,14,12
+FEMALE,COE,Mechanical Engineering,200,1.85,14,25
+MALE,CST,Management Information Systems (MIS),400,4.65,45,34
+MALE,COE,Mechanical Engineering,300,2.85,17,35
+FEMALE,COE,Elec. Elect. Engineering,500,3.78,30,36
+MALE,COE,Mechanical Engineering,500,4.20,13,34
+MALE,COE,Mechanical Engineering,200,3.74,18,38
+FEMALE,COE,Civil Engineering,500,4.95,29,40
+MALE,COE,Mechanical Engineering,500,4.95,29,42
+MALE,COE,Comp. Engineering,400,3.94,32,40
+FEMALE,CST,Comp. Science,400,3.83,27,27
+MALE,CST,Comp. Science,300,1.91,20,14
+MALE,COE,Civil Engineering,500,3.98,17,37
+MALE,COE,Comp. Engineering,400,4.60,30,37
+MALE,COE,Civil Engineering,200,3.51,19,33
+MALE,CST,Management Information Systems (MIS),300,2.21,14,12
+MALE,CST,Architecture,400,4.68,46,40
+FEMALE,CST,Comp. Science,400,3.78,32,31
+FEMALE,COE,Elec. Elect. Engineering,400,3.52,20,38
+FEMALE,CST,Management Information Systems (MIS),300,3.02,21,31
+FEMALE,CST,Comp. Science,300,2.27,14,17
+MALE,CST,Comp. Science,300,2.25,13,12
+MALE,CST,Management Information Systems (MIS),400,3.66,40,38
+FEMALE,COE,Comp. Engineering,200,2.50,29,25
+FEMALE,COE,Mechanical Engineering,200,4.40,30,35
+FEMALE,CST,Architecture,400,3.67,25,28
+MALE,COE,Elec. Elect. Engineering,200,2.46,19,16
+MALE,COE,Mechanical Engineering,400,3.51,30,34
+FEMALE,CST,Industrial Mathematics,200,4.00,31,26
+MALE,CST,Industrial Mathematics,400,4.55,47,34
+MALE,CST,Architecture,400,4.67,40,38
+FEMALE,COE,Civil Engineering,200,1.85,25,23
+FEMALE,CST,Comp. Science,200,1.52,17,17
+MALE,COE,Comp. Engineering,500,3.76,25,31
+FEMALE,CST,Architecture,400,3.78,40,29
+MALE,COE,Mechanical Engineering,400,3.67,39,32
+FEMALE,CST,Architecture,300,4.15,34,25
+FEMALE,COE,Civil Engineering,500,3.79,19,30
+FEMALE,COE,Comp. Engineering,500,3.54,18,38
+MALE,COE,Mechanical Engineering,300,2.73,26,19
+FEMALE,COE,Mechanical Engineering,200,2.13,28,15
+MALE,CST,Management Information Systems (MIS),200,3.73,39,28
+MALE,COE,Mechanical Engineering,400,3.68,35,40
+MALE,CST,Management Information Systems (MIS),200,3.70,35,37
+MALE,CST,Management Information Systems (MIS),200,3.12,31,28
+MALE,CST,Management Information Systems (MIS),400,3.83,30,37
+MALE,COE,Mechanical Engineering,200,1.65,29,23
+MALE,CST,Comp. Science,300,2.24,16,18
+MALE,COE,Civil Engineering,500,3.94,14,35
+FEMALE,CST,Industrial Mathematics,200,3.44,29,22
+MALE,CST,Architecture,400,3.88,29,28
+MALE,CST,Architecture,400,4.02,25,38
+MALE,COE,Elec. Elect. Engineering,400,4.70,34,40
+MALE,CST,Industrial Mathematics,400,4.60,44,37
+MALE,COE,Elec. Elect. Engineering,300,2.99,20,38
+MALE,CST,Comp. Science,200,2.67,26,24
+MALE,COE,Elec. Elect. Engineering,500,3.57,13,31
+MALE,CST,Industrial Mathematics,300,1.98,23,18
+MALE,CST,Industrial Mathematics,400,4.71,39,35
+FEMALE,CST,Management Information Systems (MIS),200,3.76,35,26
+MALE,CST,Industrial Mathematics,200,4.32,32,27
+MALE,COE,Elec. Elect. Engineering,400,4.56,33,36
+FEMALE,CST,Management Information Systems (MIS),400,3.85,39,33
+MALE,CST,Architecture,200,1.57,13,22
+MALE,COE,Elec. Elect. Engineering,300,1.88,27,21
+MALE,CST,Architecture,200,4.42,37,25
+MALE,COE,Civil Engineering,500,4.40,31,30
+MALE,CST,Management Information Systems (MIS),300,2.56,21,27
+MALE,COE,Elec. Elect. Engineering,400,4.51,28,31
+MALE,COE,Civil Engineering,500,4.38,28,32
+MALE,CST,Comp. Science,200,2.70,25,27
+MALE,CST,Management Information Systems (MIS),200,1.88,13,17
+MALE,CST,Architecture,400,4.18,31,36
+MALE,COE,Elec. Elect. Engineering,200,3.22,16,30
+MALE,CST,Industrial Mathematics,300,3.73,26,26
+MALE,CST,Industrial Mathematics,400,4.02,31,35
+MALE,COE,Comp. Engineering,200,3.80,17,34
+FEMALE,COE,Civil Engineering,300,4.14,15,33
+FEMALE,CST,Architecture,400,3.92,31,32
+FEMALE,COE,Civil Engineering,500,3.97,20,38
+MALE,COE,Civil Engineering,300,2.97,15,38
+MALE,COE,Mechanical Engineering,500,3.72,29,37
+FEMALE,COE,Elec. Elect. Engineering,400,3.68,17,35
+MALE,COE,Civil Engineering,200,2.36,30,17
+MALE,COE,Mechanical Engineering,400,4.27,18,39
+MALE,COE,Mechanical Engineering,300,3.42,35,38
+MALE,COE,Elec. Elect. Engineering,200,2.47,16,13
+MALE,COE,Comp. Engineering,300,3.19,22,39
+FEMALE,COE,Civil Engineering,300,2.77,14,37
+FEMALE,COE,Comp. Engineering,200,1.61,27,19
+FEMALE,COE,Comp. Engineering,300,4.39,32,33
+MALE,CST,Comp. Science,200,4.06,41,23
+MALE,COE,Elec. Elect. Engineering,300,2.89,16,39
+MALE,CST,Industrial Mathematics,400,3.95,27,25
+FEMALE,CST,Architecture,400,3.53,28,29
+MALE,COE,Mechanical Engineering,400,3.95,16,34
+MALE,CST,Industrial Mathematics,200,2.78,25,23
+FEMALE,COE,Civil Engineering,400,4.29,18,37
+FEMALE,COE,Elec. Elect. Engineering,200,2.32,18,15
+MALE,CST,Comp. Science,400,4.74,40,33
+MALE,COE,Mechanical Engineering,500,3.87,20,37
+FEMALE,CST,Architecture,200,2.13,21,17
+MALE,CST,Comp. Science,400,4.27,33,30
+FEMALE,COE,Civil Engineering,300,2.00,23,19
+MALE,COE,Mechanical Engineering,400,3.86,34,40
+MALE,CST,Industrial Mathematics,300,3.42,33,36
+MALE,CST,Industrial Mathematics,200,3.37,25,36
+MALE,CST,Industrial Mathematics,400,4.55,35,34
+MALE,CST,Management Information Systems (MIS),200,1.77,24,11
+MALE,COE,Civil Engineering,200,2.24,14,15
+MALE,CST,Comp. Science,400,4.69,39,35
+MALE,CST,Management Information Systems (MIS),200,1.87,17,17
+MALE,CST,Architecture,200,2.09,20,19
+MALE,CST,Industrial Mathematics,200,2.26,14,13
+FEMALE,COE,Civil Engineering,400,4.94,34,42
+MALE,COE,Mechanical Engineering,200,3.20,15,30
+FEMALE,COE,Comp. Engineering,200,1.75,23,25
+FEMALE,CST,Comp. Science,200,3.13,28,21
+MALE,COE,Comp. Engineering,400,4.67,36,41
+FEMALE,COE,Mechanical Engineering,300,3.85,29,30
+MALE,CST,Comp. Science,300,1.75,15,17
+FEMALE,CST,Architecture,200,3.79,25,36
+MALE,CST,Industrial Mathematics,400,4.52,45,41
+FEMALE,COE,Elec. Elect. Engineering,200,3.35,34,38
+MALE,COE,Comp. Engineering,200,2.99,38,36
+FEMALE,COE,Elec. Elect. Engineering,300,3.21,34,32
+MALE,CST,Architecture,300,3.57,37,29
+MALE,CST,Management Information Systems (MIS),200,4.23,29,39
+MALE,CST,Architecture,400,3.69,36,25
+FEMALE,CST,Management Information Systems (MIS),400,4.68,39,33
+FEMALE,COE,Civil Engineering,200,3.37,39,37
+FEMALE,CST,Comp. Science,200,4.13,33,25
+MALE,COE,Elec. Elect. Engineering,400,4.88,27,37
+FEMALE,COE,Mechanical Engineering,500,3.95,19,31
+FEMALE,CST,Industrial Mathematics,200,3.02,28,19
+MALE,CST,Architecture,200,3.92,39,37
+FEMALE,CST,Industrial Mathematics,300,1.76,25,15
+MALE,COE,Civil Engineering,200,2.65,13,15
+MALE,CST,Comp. Science,400,3.92,30,27
+MALE,COE,Mechanical Engineering,400,4.49,32,34
+MALE,COE,Civil Engineering,200,3.51,31,39
+MALE,COE,Mechanical Engineering,300,3.68,27,37
+FEMALE,CST,Comp. Science,300,3.41,33,32
+FEMALE,COE,Mechanical Engineering,200,3.72,39,31
+MALE,CST,Management Information Systems (MIS),300,4.03,39,39
+MALE,COE,Elec. Elect. Engineering,200,2.62,38,21
+MALE,CST,Industrial Mathematics,400,3.63,33,36
+MALE,COE,Civil Engineering,400,4.31,38,35
+FEMALE,COE,Comp. Engineering,300,3.34,37,31
+FEMALE,CST,Industrial Mathematics,400,4.15,25,24
+FEMALE,CST,Industrial Mathematics,300,1.78,23,18
+MALE,CST,Industrial Mathematics,300,4.11,28,30
+FEMALE,COE,Elec. Elect. Engineering,400,4.87,29,41
+MALE,CST,Management Information Systems (MIS),200,3.89,27,23
+MALE,CST,Comp. Science,200,2.47,14,22
+FEMALE,CST,Industrial Mathematics,400,4.39,39,26
+FEMALE,CST,Industrial Mathematics,400,4.94,43,40
+MALE,COE,Comp. Engineering,500,4.76,30,42
+MALE,COE,Comp. Engineering,300,1.94,17,13
+MALE,CST,Comp. Science,200,4.37,26,23
+MALE,COE,Mechanical Engineering,500,3.77,33,36
+MALE,COE,Elec. Elect. Engineering,200,3.31,21,31
+MALE,CST,Industrial Mathematics,400,4.19,31,34
+MALE,COE,Elec. Elect. Engineering,400,4.84,30,41
+MALE,CST,Industrial Mathematics,300,2.54,35,31
+FEMALE,COE,Civil Engineering,500,3.85,35,30
+MALE,COE,Elec. Elect. Engineering,300,2.65,25,23
+FEMALE,CST,Architecture,400,4.98,48,36
+MALE,CST,Industrial Mathematics,200,3.57,37,23
+FEMALE,CST,Industrial Mathematics,200,2.32,17,14
+MALE,COE,Elec. Elect. Engineering,400,4.08,36,34
+FEMALE,COE,Mechanical Engineering,500,3.79,14,32
+MALE,COE,Mechanical Engineering,300,2.38,15,16
+MALE,COE,Mechanical Engineering,400,3.72,20,39
+FEMALE,COE,Elec. Elect. Engineering,200,1.97,27,15
+MALE,CST,Comp. Science,400,4.70,42,38
+MALE,COE,Mechanical Engineering,500,4.20,37,38
+MALE,COE,Elec. Elect. Engineering,400,4.71,32,39
+MALE,COE,Elec. Elect. Engineering,400,3.87,18,33
+MALE,CST,Comp. Science,300,2.52,32,19
+MALE,COE,Elec. Elect. Engineering,200,2.98,23,37
+MALE,CST,Management Information Systems (MIS),300,1.97,15,21
+FEMALE,COE,Elec. Elect. Engineering,300,2.41,13,20
+MALE,CST,Industrial Mathematics,300,3.67,31,25
+MALE,CST,Industrial Mathematics,200,2.07,18,12
+FEMALE,COE,Comp. Engineering,200,3.88,16,34
+MALE,CST,Comp. Science,400,3.51,38,27
+MALE,CST,Architecture,300,3.42,32,29
+FEMALE,COE,Civil Engineering,500,4.31,38,37
+MALE,COE,Comp. Engineering,500,4.35,29,38
+MALE,COE,Comp. Engineering,400,4.84,29,42
+MALE,COE,Civil Engineering,400,3.61,28,39
+MALE,CST,Management Information Systems (MIS),300,3.62,30,39
+MALE,CST,Industrial Mathematics,400,3.68,34,37
+FEMALE,COE,Comp. Engineering,400,4.41,27,35
+MALE,COE,Mechanical Engineering,500,3.56,36,36
+MALE,CST,Architecture,200,3.04,28,25
+MALE,COE,Mechanical Engineering,500,4.70,34,40
+FEMALE,CST,Industrial Mathematics,200,3.07,36,23
+MALE,COE,Comp. Engineering,500,3.59,39,30
+MALE,CST,Architecture,300,4.35,33,23
+MALE,CST,Architecture,400,3.78,28,32
+FEMALE,CST,Management Information Systems (MIS),400,3.97,36,33
+FEMALE,COE,Civil Engineering,300,1.60,26,23
+MALE,COE,Civil Engineering,300,4.23,21,39
+FEMALE,CST,Comp. Science,200,3.85,39,32
+MALE,CST,Industrial Mathematics,300,2.55,21,25
+FEMALE,COE,Mechanical Engineering,300,2.11,13,17
+MALE,COE,Civil Engineering,200,3.96,16,40
+MALE,COE,Comp. Engineering,200,3.35,20,32
+MALE,CST,Management Information Systems (MIS),400,4.58,38,37
+MALE,COE,Comp. Engineering,200,2.08,20,25
+MALE,CST,Management Information Systems (MIS),300,2.37,24,17
+FEMALE,COE,Elec. Elect. Engineering,200,2.92,30,37
+FEMALE,COE,Comp. Engineering,200,3.68,19,35
+MALE,COE,Mechanical Engineering,300,3.56,22,30
+MALE,COE,Elec. Elect. Engineering,400,4.71,29,36
+FEMALE,COE,Civil Engineering,200,2.32,20,25
+MALE,COE,Mechanical Engineering,500,4.07,26,34
+MALE,CST,Architecture,400,4.69,48,37
+MALE,COE,Civil Engineering,400,4.19,26,39
+MALE,COE,Civil Engineering,200,1.98,13,19
+MALE,CST,Industrial Mathematics,200,3.31,23,25
+MALE,CST,Industrial Mathematics,400,4.76,36,33
+MALE,COE,Civil Engineering,500,3.68,16,34
+MALE,COE,Comp. Engineering,200,3.27,36,33
+MALE,COE,Civil Engineering,400,3.95,14,35
+MALE,COE,Comp. Engineering,400,4.22,18,31
+MALE,COE,Civil Engineering,400,4.98,34,43
+MALE,COE,Mechanical Engineering,500,4.86,29,39
+FEMALE,COE,Mechanical Engineering,500,4.87,34,37
+MALE,CST,Management Information Systems (MIS),400,3.65,38,25
